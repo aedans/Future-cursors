@@ -63,5 +63,5 @@ function create {
 SRC=$PWD/src
 THEME="Future Cursors"
 
-create svg
+create svg-cyan
 
